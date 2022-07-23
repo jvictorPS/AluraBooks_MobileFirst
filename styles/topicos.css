@@ -27,3 +27,17 @@
     font-size: 14px;
     padding: 1em;
 }
+
+@media screen and (min-width: 1024px) {
+    .topicos__titulo {
+        font-size: 30px;
+    }
+
+    .topicos__botoes {
+        font-size: 24px;
+    }
+
+    .topicos {
+        padding: 2em 9em 2em 9em;
+    }
+}
